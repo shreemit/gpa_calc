@@ -1,4 +1,3 @@
-Hello World
 <html>
 <body>
 <p>Hello from inside</p>
